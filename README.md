@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Iam-Phasma</h1>
 <h3 align="center">A soft skill programmer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,js" />
+    <img src="https://skillicons.dev/icons?i=react,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+
+
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="android" width="40" height="40"/>
