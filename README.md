@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h5 align="left">Programming Languages</h5>
-    <img src="https://skillicons.dev/icons?i=cs,java,js,phyton" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,python" />
     <h5 align="left">Frontend Development</h5>
     <img src="https://skillicons.dev/icons?i=html,react,css,tailwind,bootstrap" />
     <h5 align="left">Backend</h5>
