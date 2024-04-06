@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=cs,java,js,python" />
     <h5 align="left">Frontend Development</h5>
     <img src="https://skillicons.dev/icons?i=html,react,css,tailwind,bootstrap" />
-    <h5 align="left">Backend</h5>
+    <h5 align="left">Backend (kinda)</h5>
     <img src="https://skillicons.dev/icons?i=nodejs,php" />
     <h5 align="left">Development</h5>
     <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode" />
