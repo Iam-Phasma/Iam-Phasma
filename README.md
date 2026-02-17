@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iam-Phasma</h1>
-<h3 align="center">A soft skill programmer</h3>
+<h3 align="center"></h3>
   
 </p>
 
