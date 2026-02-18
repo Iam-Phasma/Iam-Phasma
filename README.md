@@ -3,7 +3,7 @@
   
 </p>
 
-/**
+<!--
 <h1 align="left">Languages and Tools:</h1>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,6 +24,6 @@
     <h5 align="left">Tools</h5>
     <img src="https://skillicons.dev/icons?i=git,discord,gmail,linkedin,stackoverflow,windows" />
   </a>
-</p>**/
+</p>-->
 
 
