@@ -22,6 +22,14 @@
 
 Every project here is proof that progress is real, even when it is not perfect.
 
+### Tech I've encountered
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,supabase,mongodb,sqlite,git,github,vscode,visualstudio,androidstudio,cloudflare" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
