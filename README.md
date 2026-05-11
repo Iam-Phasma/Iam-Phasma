@@ -1,29 +1,39 @@
-<h1 align="center">Hi 👋, I'm Iam-Phasma</h1>
-<h3 align="center"></h3>
-  
+<h1 align="center">Hi, I'm Iam-Phasma</h1>
+
+<p align="center">
+  I do not call myself a programmer yet. I am a curious builder who learns by making things.
 </p>
 
-<!--
-<h1 align="left">Languages and Tools:</h1>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <h5 align="left">Programming Languages</h5>
-    <img src="https://skillicons.dev/icons?i=cs,java,js,python" />
-    <h5 align="left">Frontend Development</h5>
-    <img src="https://skillicons.dev/icons?i=html,react,css,tailwind,bootstrap" />
-    <h5 align="left">Backend (kinda)</h5>
-    <img src="https://skillicons.dev/icons?i=nodejs,php" />
-    <h5 align="left">Development</h5>
-    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode" />
-    <h5 align="left">Database</h5>
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
-    <h5 align="left">Pages</h5>
-    <img src="https://skillicons.dev/icons?i=cloudflare" />
-    <h5 align="left">Repositories</h5>
-    <img src="https://skillicons.dev/icons?i=github,bitbucket" />
-    <h5 align="left">Tools</h5>
-    <img src="https://skillicons.dev/icons?i=git,discord,gmail,linkedin,stackoverflow,windows" />
-  </a>
-</p>-->
+---
+
+### About me
+
+- I build small web projects and improve them one step at a time.
+- I like creating tools that feel useful, simple, and fun to use.
+- Most of what I know came from trying, failing, and trying again.
+
+### What you'll find here
+
+- Personal experiments
+- Interactive web apps
+- Projects inspired by local culture, design, and daily problems
+
+### Current mindset
+
+I am still learning, but I show up consistently.
+Every project here is proof that progress is real, even when it is not perfect.
+
+### Featured projects
+
+- [Travel-Authority-Archive](https://github.com/Iam-Phasma/Travel-Authority-Archive)
+- [Pila](https://github.com/Iam-Phasma/Pila)
+- [Geo-Pinas](https://github.com/Iam-Phasma/Geo-Pinas)
+- [Novltype](https://github.com/Iam-Phasma/Novltype)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile.
+</p>
 
 
