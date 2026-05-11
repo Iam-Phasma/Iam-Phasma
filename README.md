@@ -38,7 +38,7 @@ Every project here is proof that progress is real, even when it is not perfect.
 ---
 
 <p align="center">
-  Thanks for visiting my profile.
+  Thanks for visiting.
 </p>
 
 
