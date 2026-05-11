@@ -26,7 +26,12 @@ Every project here is proof that progress is real, even when it is not perfect.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,supabase,mongodb,sqlite,git,github,vscode,visualstudio,androidstudio,cloudflare" />
+    <strong>Frontend</strong><br />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br /><br />
+    <strong>Backend and Data</strong><br />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,supabase,mongodb,sqlite" /><br /><br />
+    <strong>Tools and Platforms</strong><br />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,cloudflare" />
   </a>
 </p>
 
