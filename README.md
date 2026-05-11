@@ -22,6 +22,8 @@
 
 Every project here is proof that progress is real, even when it is not perfect.
 
+---
+
 ### Tech I've encountered
 
 <p align="left">
