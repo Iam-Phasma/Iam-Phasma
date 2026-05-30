@@ -9,7 +9,6 @@
 ### About me
 
 - I build small web projects and improve them one step at a time.
-- I like creating tools that feel useful, simple, and fun to use.
 - Most of what I know came from trying to undrestand the use of AI.
 
 ### What you'll find here
