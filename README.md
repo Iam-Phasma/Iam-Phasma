@@ -14,12 +14,6 @@
 ### What you'll find here
 
 - Personal experiments
-- Interactive web apps
-- Projects inspired by local culture, design, and daily problems
-
-### Current mindset
-
-Every project here is proof that progress is real, even when it is not perfect.
 
 ---
 
