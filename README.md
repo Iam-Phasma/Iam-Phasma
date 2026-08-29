@@ -11,9 +11,9 @@ I'm not an experienced developer. I am a curious builder who learns by making th
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Iam-Phasma?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
 </p>
 
----
+##
 
-### 🔨 Languages and Tools
+<strong>🔨 Languages and Tools</strong>
 
 <p align="left">
   <strong>Frontend</strong><br />
@@ -24,7 +24,7 @@ I'm not an experienced developer. I am a curious builder who learns by making th
   <img src="https://skillicons.dev/icons?i=github,bitbucket,vscode,visualstudio,androidstudio,blender" />
 </p>
 
----
+##
 Thanks for visiting.
 
 
