@@ -18,7 +18,7 @@ I'm not an experienced developer. I am a curious builder who learns by making th
 <p align="left">
   <strong>Front-end</strong><br />
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" /><br /><br />
-  <strong>Back-end</strong><br />
+  <strong>Back-end and Data</strong><br />
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,cs,firebase,supabase" /><br /><br />
   <strong>Tools</strong><br />
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,androidstudio,blender,robloxstudio" /><br /><br />
