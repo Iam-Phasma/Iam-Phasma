@@ -21,7 +21,7 @@ I'm not an experienced developer. I am a curious builder who learns by making th
   <strong>Back-end</strong><br />
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,cs,firebase,supabase" /><br /><br />
   <strong>Tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,androidstudio,blender,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,androidstudio,blender,robloxstudio" /><br /><br />
   <strong>Platforms</strong><br />
   <img src="https://skillicons.dev/icons?i=apple,windows,linux" />
 </p>
