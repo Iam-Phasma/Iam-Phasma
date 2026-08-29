@@ -16,12 +16,14 @@ I'm not an experienced developer. I am a curious builder who learns by making th
 <strong>🔨 Languages and Tools</strong>
 
 <p align="left">
-  <strong>Frontend</strong><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" /><br /><br />
-  <strong>Backend and Data</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,php,python,java,cs,firebase,supabase,mongodb,sqlite" /><br /><br />
-  <strong>Tools and Platforms</strong><br />
-  <img src="https://skillicons.dev/icons?i=github,bitbucket,vscode,visualstudio,androidstudio,blender" />
+  <strong>Front-end</strong><br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" /><br /><br />
+  <strong>Back-end</strong><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,cs,firebase,supabase" /><br /><br />
+  <strong>Tools</strong><br />
+  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,androidstudio,blender,robloxstudio" />
+  <strong>Platforms</strong><br />
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux" />
 </p>
 
 ##
