@@ -2,7 +2,7 @@
 
 **`Inspo Crafter (Web/Mobile Development/Graphics Design/3D Modeling)`**
 
-I'm not an experienced developer. I am a curious builder who learns by making things. I would build small web projects and improve them one step at a time. Most of what I know came from trying to understand the use of AI.
+I'm not an experienced developer. I am a curious builder who learns by making things, making sure they cross my own expectations before sharing it to people. I would build small projects and improve them one step at a time - fueled by AHA moment! and boredom. Most of what I have here came from trying to understand the use of AI.
 
 <p align="left">
   <a href="https://github.com/Iam-Phasma?tab=followers">
