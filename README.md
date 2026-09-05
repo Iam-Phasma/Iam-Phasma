@@ -14,19 +14,33 @@ I'm not an experienced developer. I am a curious builder who learns by making th
 ##
 
 <strong>🔨 Languages and Tools</strong>
-<!--
-<p align="left">
-  <strong>Front-end</strong><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" /><br /><br />
-  <strong>Back-end and Data</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,cs,firebase,supabase" /><br /><br />
-  <strong>Tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,androidstudio,blender,robloxstudio" /><br /><br />
-  <strong>Platforms</strong><br />
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux" />
-</p> -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,php,python,java,cs,firebase,supabase,github,vscode,visualstudio,androidstudio,blender,robloxstudio,apple,windows,linux"/>
+<p align="left">
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/HTML.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/CSS.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/JavaScript.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/TypeScript.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/React-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Vite-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/NodeJS-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/PHP-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Python-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Java-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/CS.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Firebase-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Supabase-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Github-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/VSCode-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/VisualStudio-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/AndroidStudio-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Blender-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/RobloxStudio.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Apple-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Windows-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Linux-Dark.svg" width="48" />
+<img src="https://raw.githubusercontent.com/Iam-Phasma/skill-icons/main/icons/Android-Dark.svg" width="48" />
+</p>
 
 ##
 Thanks for visiting.
