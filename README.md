@@ -14,7 +14,7 @@ I'm not an experienced developer. I am a curious builder who learns by making th
 ##
 
 <strong>🔨 Languages and Tools</strong>
-
+<!--
 <p align="left">
   <strong>Front-end</strong><br />
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" /><br /><br />
@@ -24,7 +24,9 @@ I'm not an experienced developer. I am a curious builder who learns by making th
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,androidstudio,blender,robloxstudio" /><br /><br />
   <strong>Platforms</strong><br />
   <img src="https://skillicons.dev/icons?i=apple,windows,linux" />
-</p>
+</p> -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,php,python,java,cs,firebase,supabase,github,vscode,visualstudio,androidstudio,blender,robloxstudio,apple,windows,linux"/>
 
 ##
 Thanks for visiting.
